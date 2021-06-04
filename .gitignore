@@ -1,2 +1,7 @@
-/Expr.interp
-/Expr.tokens
+/logo3d.interp
+/logo3d.tokens
+/logo3dVisitor.py
+/logo3dParser.py
+/logo3dLexer.tokens
+/logo3dLexer.py
+/logo3dLexer.interp

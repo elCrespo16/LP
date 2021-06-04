@@ -1,0 +1,6 @@
+PROC main() IS
+    X := 1
+    IF X == 1 THEN
+        << 50
+    END
+END

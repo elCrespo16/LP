@@ -1,0 +1,3 @@
+PROC main() IS
+    FOR i FROM 1 TO 5 DO i := i + 1 << i END
+END

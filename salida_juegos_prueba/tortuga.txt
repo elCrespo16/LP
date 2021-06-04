@@ -1,0 +1,1 @@
+Te deberia sacar la pantalla y dibujar una espiral refachera y hacer una linea azul en el origen

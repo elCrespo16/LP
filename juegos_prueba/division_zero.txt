@@ -1,0 +1,5 @@
+PROC main() IS
+    valor1 := 0
+    valor2 := 20
+    << valor2/valor1
+END

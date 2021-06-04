@@ -1,0 +1,8 @@
+PROC main() IS
+    a := 5
+    b := 7
+    WHILE a != b DO
+        << b
+        b := b - 1
+    END
+END

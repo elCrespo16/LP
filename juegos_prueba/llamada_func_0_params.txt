@@ -1,0 +1,7 @@
+PROC main() IS
+    pene()
+END
+
+PROC pene() IS
+    << 30
+END

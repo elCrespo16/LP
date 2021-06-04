@@ -1,0 +1,1 @@
+Deberia sacar una excepcion de division entre zero

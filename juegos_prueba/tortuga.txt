@@ -1,0 +1,31 @@
+// Programa de demostracio en Logo3D.
+
+PROC cercle(mida, costats) IS
+    FOR i FROM 1 TO costats DO
+        forward(mida)
+        left(360 / costats)
+    END
+END
+
+PROC espiral(cercles) IS
+    IF cercles > 0 THEN
+        cercle(1, 12)
+        up(5)
+        espiral(cercles - 1)
+    END
+END
+
+PROC main() IS
+    espiral(5)
+    home()
+    left(90)
+    right(90)
+    up(90)
+    down(90)
+    hide()
+    show()
+    color(0,0,1)
+    forward(4)
+    home()
+    backward(4)
+END

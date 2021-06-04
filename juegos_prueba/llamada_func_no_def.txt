@@ -1,0 +1,5 @@
+PROC main() IS
+    valor1:= 10
+    valor2:= 30
+    euclides(valor1, valor2)
+END

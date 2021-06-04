@@ -1,0 +1,5 @@
+PROC main() IS
+    FOR i FROM 1 TO 30 DO
+        << 40
+    END
+END

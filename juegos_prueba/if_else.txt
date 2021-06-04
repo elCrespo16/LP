@@ -1,0 +1,8 @@
+PROC main() IS
+    X := 0
+    IF X == 1 THEN
+        << 50
+    ELSE
+        << 30
+    END
+END

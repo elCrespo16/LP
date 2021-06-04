@@ -1,0 +1,1 @@
+deberia imprimir 6 y 7

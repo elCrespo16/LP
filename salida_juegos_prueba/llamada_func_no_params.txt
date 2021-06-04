@@ -1,0 +1,1 @@
+Deberia dar exepcion de llamada a funcion con pocos parametros
